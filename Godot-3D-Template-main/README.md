@@ -1,6 +1,6 @@
 # 3D FPS Maze Project
 
-3D FPS Maze Game created in Godot - 4/8/2022
+3D FPS Maze Game created in Godot - insert date here 
 
 A 3D FPS Maze game with a singleplayer and multiplayer mode! Singleplayer: encounter two mazes varied in size and shoot zombies, find a key, and escape! Use WASD and Space to play. Multiplayer: two characters in a small maze hunt each other down - last one alive wins! Use WASD/Space and Arrow Keys/Enter to play. 
 
