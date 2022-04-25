@@ -24,26 +24,18 @@ Health and healthbar system (multiplayer)
 ## References
 Created using [Godot 3.4.2](https://godotengine.org/download/osx)
 
-Base code from [05 FPS Maze](https://www.youtube.com/playlist?list=PL3V-_hJz2cV-Z-fjiYDZoZy56jzT7Gux8) playlist by Jason Francis on YouTube
+Base code from [05 3D RPG](https://www.youtube.com/playlist?list=PL3V-_hJz2cV8INa2MH5L89YPNMBDjUEMx) playlist by Jason Francis on YouTube
 
 All 3D assets from [Kenney.nl](https://kenney.nl/)
 
-Bullet decal from [OpenGameArt](https://opengameart.org/content/bullet-decal)
+Terrain by [Jayanam Games on Patreon](https://www.patreon.com/posts/blender-export-16916038)
 
-Muzzle flash from [OpenGameArt](https://opengameart.org/content/muzzle-flash-with-model)
+UI assets from [Kenney.nl](https://www.kenney.nl/assets/ui-pack-rpg-expansion)
 
-Ground material from [ambientcg - "Concrete 026](https://ambientcg.com/view?id=Concrete026)
-
-Wall material from [ambientcg - "Painted Plaster 010](https://ambientcg.com/view?id=PaintedPlaster010) 
-
-UI assets by [Loudeyes Gaming on itch.io](https://loudeyes.itch.io/battle-royale-fps-game-ui-asset-pack)
-
-Sound effects: Gunshot from [mixkit - "Game gun shot"](https://mixkit.co/free-sound-effects/gun/). Zombie sound effect from [fesliyan studios - "Zombie Attack B3 Sound Effect](https://www.fesliyanstudios.com/royalty-free-sound-effects-download/zombie-174). 
-
-Music: ["Gnork Party" by Piemert on pixabay](https://pixabay.com/music/upbeat-gnork-party-10789/)
+Font - [Adventure ReQuest by Chequered Ink](https://www.fontspace.com/adventure-request-font-f29593)
 
 ## Future Development
-More levels, character movement, animated models, elaborate levels.
+...
 
 ## Created by
 Arabella Loveridge
